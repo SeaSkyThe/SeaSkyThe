@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 (General Kenobi, you are a bold one), my name is Marcelo and i love to learn new stuff! 🌱 I’m currently learning Python Web frameworks!
 
 <!--
 **SeaSkyThe/SeaSkyThe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

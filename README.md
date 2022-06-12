@@ -26,7 +26,7 @@
     <a href ="mailto:marceloer2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  ![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+  
+  ![snake gif](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.gif)
    
   </div>

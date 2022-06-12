@@ -15,10 +15,10 @@
     <img align="center" alt="SeaSkyThe-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="SeaSkyThe-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/985362768943255592/IMG_20211106_215230_785.jpg">
-    
-   
+     
 </div>
-##
+  
+## 
 
 <div> 
     <a href="https://instagram.com/_marcelul" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

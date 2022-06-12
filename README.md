@@ -25,8 +25,13 @@
     <a href="https://www.twitch.tv/seaskythe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href ="mailto:marceloer2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
   
-  ![snake gif](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
-  ![snake gif](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.giff#gh-dark-mode-only) 
+  
+  
+  </div>
+  
+ <div>
+    ![GitHub Snake Light]([github-snake.svg](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg)#gh-light-mode-only)
+  
+    ![GitHub Snake dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   </div>

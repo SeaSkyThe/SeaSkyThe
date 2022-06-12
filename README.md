@@ -31,7 +31,7 @@
   </div>
   
  <div>
-    ![GitHub Snake Light]([github-snake.svg](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg)#gh-light-mode-only)
+    ![GitHub Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg)#gh-light-mode-only)
   
     ![GitHub Snake dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   </div>

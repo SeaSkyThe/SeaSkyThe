@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
 </div>
 
- <div style="display: inline_block; "><br>
+ <div style="display: inline_block; text-align: center;"><br>
     <img align="center" alt="SeaSkyThe-C" height="30" width="52" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="SeaSkyThe-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="SeaSkyThe-Django" height="40" width="98" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">

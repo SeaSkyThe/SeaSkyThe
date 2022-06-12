@@ -27,7 +27,8 @@
     <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <!--     <img align="center" alt="SeaSkyThe-HTML" height="400" width="400" src="https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg"> -->
-  ![Snake Dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake Dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   </div>
   
 

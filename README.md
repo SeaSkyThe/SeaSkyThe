@@ -1,4 +1,6 @@
-### Hello there 👋 (General Kenobi, you are a bold one), my name is Marcelo and i love to learn new stuff! I'm currently focused on web development with Python (Django and Flask) as my main stack, and I've also been curious about GoLang and microservices architecture. 
+### Hello there 👋 (General Kenobi, you are a bold one), my name is Marcelo and I love to learn new stuff! I'm currently focused on web development with Python (Django, Flask and FastAPI) as my main stack, but I'm always trying to learn new things, right now I'm building a relationship with Go.
+
+                                KEEP THIS BETWEEN US (don't tell anyone): I love the C language, yes, pure C.
 
 <div align="center">
   <a href="https://github.com/SeaSkyThe">

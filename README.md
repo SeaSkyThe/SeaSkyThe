@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/SeaSkyThe">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
+  <img height="160em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
 </div>
 
  <div style="display: inline_block; align-items: center;"><br>
@@ -19,6 +19,7 @@
     <img align="center" alt="SeaSkyThe-CSS" height="28" width="73" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="SeaSkyThe-BOOTSTRAP" height="30" width="121" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="SeaSkyThe-Js" height="30" width="135" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img width="83" height="30" align="center" alt="SeaSkyThe-Heroku" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <br>
     <br>
     <img align="center" alt="SeaSkyThe-Django" height="30" width="98" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -26,7 +27,8 @@
     <img align="center" alt="SeaSkyThe-Postgres" height="30" width="128" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="SeaSkyThe-MySql" height="30" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="SeaSkyThe-MongoDB" height="30" width="108" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-     <img align="center" alt="SeaSkyThe-Heroku" height="30" width="108" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="SeaSkyThe-Heroku" height="30" width="108" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   
     <img align="right" alt="Seaskythe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/985362768943255592/IMG_20211106_215230_785.jpg">
     <br><br>
     

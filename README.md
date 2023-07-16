@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/SeaSkyThe">
-  <img height="160em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
 </div>
 
@@ -28,7 +28,6 @@
     <img align="center" alt="SeaSkyThe-MySql" height="30" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="SeaSkyThe-MongoDB" height="30" width="108" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="SeaSkyThe-Heroku" height="30" width="108" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-   
     <img align="right" alt="Seaskythe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/985362768943255592/IMG_20211106_215230_785.jpg">
     <br><br>
     

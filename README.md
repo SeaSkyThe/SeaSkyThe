@@ -59,7 +59,7 @@
     <img align="center" alt="SeaSkyThe-MySql" height="30" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="SeaSkyThe-MongoDB" height="30" width="108" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="SeaSkyThe-Heroku" height="30" width="108" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img align="right" alt="Seaskythe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/985362768943255592/IMG_20211106_215230_785.jpg">
+    <img align="right" alt="Seaskythe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/1181347981388161104/EU2.jpg">
     <br><br>
     
 </div>

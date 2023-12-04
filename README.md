@@ -1,14 +1,45 @@
-### Hello there 👋 (General Kenobi, you are a bold one), my name is Marcelo and I love to learn new stuff! I'm currently focused on web development with Python (Django, Flask and FastAPI) as my main stack, but I'm always trying to learn new things, right now I'm building a relationship with Go.
 
-                                KEEP THIS BETWEEN US (don't tell anyone): I love the C language, yes, pure C.
 
 <div align="center">
-  <a href="https://github.com/SeaSkyThe">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
+  <img align="center" src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp"></img>
 </div>
 
- <div style="display: inline_block; align-items: center;"><br>
+##
+
+<div >
+
+  <h3 align="center"> <b>Software Developer with a Linux Passion 🐧</b> </h3>
+  
+  <br/>
+  
+  I'm a passionate Software Developer always eager to learn and explore new challenges. Lately, I've fallen head over heels for Linux and its powerful ecosystem. 
+  
+  My current focus is becoming a better Software Developer so I can elevate my career and make meaningful contributions to open source projects. 💻
+  
+  As a personal goal, I want to dive deeper into Cybersecurity to have some fun with CTFs. 🛡️. 🛡️ 
+  
+  In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or playing a random game. 😉
+  
+  I'm always looking to connect with fellow developers and security enthusiasts, so feel free to say hi! 👋
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:marceloer2011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/_marcelul" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_marcelul" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/seaskythe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
+
+
+
+
+##
+
+  <h3 align="center"> Tech Stack </h3>
+ <div style="display: inline_block; align-items: center;" >
     <img align="center" alt="SeaSkyThe-Python" height="28" width="97" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="SeaSkyThe-C" height="28" width="52" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="SeaSkyThe-GO" height="28" width="58" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
@@ -35,15 +66,18 @@
   
 ## 
 
-<div> 
-    <a href="https://instagram.com/_marcelul" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/seaskythe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href ="mailto:marceloer2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="center">
+  <a href="https://github.com/SeaSkyThe">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
+</div>
+<div>
+  <!--     <img align="center" alt="SeaSkyThe-HTML" height="400" width="400" src="https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg"> -->
   
-<!--     <img align="center" alt="SeaSkyThe-HTML" height="400" width="400" src="https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg"> -->
   ![Snake Dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  
   ![Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  </div>
+ </div>
   
 

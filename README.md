@@ -76,7 +76,6 @@
   <!--     <img align="center" alt="SeaSkyThe-HTML" height="400" width="400" src="https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg"> -->
   
   ![Snake Dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  
   ![Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  </div>
   

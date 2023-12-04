@@ -66,17 +66,25 @@
   
 ## 
 
-
+<br/><br/><br/><br/>
 <div align="center">
   <a href="https://github.com/SeaSkyThe">
+    
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
 </div>
+
+    
 <div>
   <!--     <img align="center" alt="SeaSkyThe-HTML" height="400" width="400" src="https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg"> -->
   
-  ![Snake Dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+   ![Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+   ![Snake Dark](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  </div>
+
+  
+  
+ 
   
 

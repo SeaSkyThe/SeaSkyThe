@@ -16,7 +16,7 @@
   
   My current focus is becoming a better Software Developer so I can elevate my career and make meaningful contributions to open source projects. 💻
   
-  As a personal goal, I want to dive deeper into Cybersecurity to have some fun with CTFs. 🛡️. 🛡️ 
+  As a personal goal, I want to dive deeper into Cybersecurity to have some fun with CTFs. 🛡️. 
   
   In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or playing a random game. 😉
   

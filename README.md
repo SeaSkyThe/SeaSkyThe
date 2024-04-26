@@ -18,7 +18,7 @@
   
   As a personal goal, I want to dive deeper into Programming Languages Theory and to have some fun with Go and Rust. 🛡️. 
   
-  In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or playing a random game. 😉
+  In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or messing with a random project. 😉
   
   I'm always looking to connect with fellow developers and security enthusiasts, so feel free to say hi! 👋
 </div>

@@ -14,13 +14,13 @@
   
   I'm a passionate Software Developer always eager to learn and explore new challenges. Lately, I've fallen head over heels for Linux and its powerful ecosystem. 
   
-  My current focus is becoming a better Software Developer so I can elevate my career and make meaningful contributions to open source projects. 💻
+  My current focus is becoming a better Software Developer so I can elevate my career and make meaningful contributions to open source projects.
   
-  As a personal goal, I want to dive deeper into Programming Languages Theory and to have some fun with Go and Rust. 🛡️. 
+  As a personal goal, I want to dive into Programming Languages Theory and to learn and have some fun with Rust.
   
-  In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or messing with a random project. 😉
+  In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or messing with a random project. 
   
-  I'm always looking to connect with fellow developers and security enthusiasts, so feel free to say hi! 👋
+  I'm always looking to connect with fellow developers and security enthusiasts, so feel free to say hi!
 </div>
 
 <br/>

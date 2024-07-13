@@ -8,7 +8,7 @@
 
 <div >
 
-  <h3 align="center"> <b>Software Developer with a Linux Passion 🐧</b> </h3>
+  <h3 align="center"> <b>Software Developer</b> </h3>
   
   <br/>
   

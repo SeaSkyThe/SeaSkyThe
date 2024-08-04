@@ -33,15 +33,13 @@
 </div>
 
 <br/>
-<!--
-<div align="center">
-  <a height="28" href ="mailto:seaskythe@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" target="_blank"></a>
-  <a href="https://www.twitter.com/_marcelul" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitch.tv/seaskythe" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" target="_blank"></a>
-  
-  <a width="107" height="28" style="border-radius: 0.375em;" href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--imBRhTaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" loading="lazy"> </a> 
+
+<div align="center" >
+  <a href ="mailto:seaskythe@proton.me"><img height="28" src="https://img.shields.io/badge/-@seaskythe-6d4bfe?style=for-the-badge&logo=protonmail&logoColor=ffffff&link=mailto:seaskythe@proton.me"></a>
+  <a href="https://www.twitter.com/_marcelul" target="_blank"><img height="28" src="https://img.shields.io/badge/-@__marcelul-060605?style=for-the-badge&logo=x&logoColor=ffffff&link=https://x.com/_marcelul"></a> 
+  <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img height="28" src="https://img.shields.io/badge/-Marcelo%20Eduardo-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=00000&link=https://www.linkedin.com/in/marcelo-eduardo/" loading="lazy"> </a> 
 </div>
--->
+
 
 
 

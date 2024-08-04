@@ -20,11 +20,9 @@
   - Functional Programming.
   - Programming Languages Theory.
 
-  Currently I'am working as a full time Software Developer.
-  
   One of my personal goals is to dive into Programming Languages Theory. I want to learn more about programming languages as a field of study and get a better grasp of functional programming languages.
   
-  Right now, I'm learning OCaml and keeping an eye on Zig and Gleam.
+  Right now, I'm learning OCaml and studying about Type Checkers.
   
   Recently, I also started writing about my projects on my [blog](https://seaskythe.bearblog.dev/)
 

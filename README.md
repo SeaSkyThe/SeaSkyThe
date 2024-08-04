@@ -8,37 +8,44 @@
 ##
 <div >
 
-  <h3 align="center"> <b>Software Developer</b> </h3>
+  <h3 align="center"> <b>Hello, I am Marcelo! 👋</b> </h3>
   
   <br/>
   
-  I'm Marcelo, in the online world I go by the nickname SeaSkyThe.  
+   Hey, I'm Marcelo. I'm a Software Developer with more curiosity than time.
   
-  I'm a passionate Software Developer always eager to learn and explore new challenges. Lately, I've been doing some little projects with Go and writing to my [blog](https://seaskythe.bearblog.dev/).
+  I love the learning process of things. Here are some topics I'm interested in or currently learning:
+  - Build and learn what makes me have fun.
+  - Python, Go and C.
+  - Functional Programming.
+  - Programming Languages Theory.
+
+  Currently I'am working as a full time Software Developer.
   
-  My current focus is to build whatever I find to be fun, so I can elevate my career, become a better developer and make meaningful contributions to open source projects.
+  One of my personal goals is to dive into Programming Languages Theory. I want to learn more about programming languages as a field of study and get a better grasp of functional programming languages.
   
-  As a personal goal, I want to dive into Programming Languages Theory to understand more about Programming Languages as an object of study, also I'm looking foward to have some fun with Zig.
+  Right now, I'm learning OCaml and keeping an eye on Zig and Gleam.
   
-  In my free time, you'll likely find me tinkering with my editor, solving some random programming problem from leetcode or messing with a random project. 
-  
+  Recently, I also started writing about my projects on my [blog](https://seaskythe.bearblog.dev/)
+
   I'm always looking to connect with fellow developers, so feel free to say hi!
+
 </div>
 
 <br/>
-
+<!--
 <div align="center">
   <a height="28" href ="mailto:seaskythe@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" target="_blank"></a>
   <a href="https://www.twitter.com/_marcelul" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/seaskythe" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a width="107" height="28" style="border-radius: 0.375em;" href="https://www.linkedin.com/in/marcelo-eduardo" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--imBRhTaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" loading="lazy"> </a> 
 </div>
+-->
 
 
 
-
-##
-
+<!--
   <h3 align="center"> Tech Stack </h3>
  <div style="display: inline_block; align-items: center;" >
     <img align="center" alt="SeaSkyThe-Python" height="28" width="97" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -56,11 +63,11 @@
     <img align="center" alt="SeaSkyThe-Flask" height="30" width="85" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt="SeaSkyThe-Postgres" height="30" width="128" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="SeaSkyThe-MySql" height="30" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<!--     <img align="right" alt="Seaskythe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/1184273249119522837/me_1.jpg"> -->
+   <img align="right" alt="Seaskythe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/666404705282555925/1184273249119522837/me_1.jpg">
     <br><br>
     
 </div>
-  
+ 
 ## 
 
 <br/><br/><br/><br/>
@@ -70,9 +77,10 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeaSkyThe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeaSkyThe&layout=compact&langs_count=7&theme=dracula&hide=jupyter%20notebook"/>
 </div>
+-->
 
-    
-<div>
+##
+<div align="center">
   <!--     <img align="center" alt="SeaSkyThe-HTML" height="400" width="400" src="https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake-dark.svg"> -->
   
    ![Snake Light](https://github.com/SeaSkyThe/SeaSkyThe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)

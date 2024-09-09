@@ -17,7 +17,7 @@
   I love the learning process of things. Here are some topics I'm interested in or currently learning:
   - Build and learn what makes me have fun.
   - Python, Go and C.
-  - Functional Programming.
+  - Functional Programming (OCaml lets go).
   - Programming Languages Theory.
 
   One of my personal goals is to dive into Programming Languages Theory. I want to learn more about programming languages as a field of study and get a better grasp of functional programming languages.

@@ -16,12 +16,15 @@
   
   I love the learning process of things. Here are some topics I'm interested in or currently learning:
   - Build and learn what makes me have fun.
+  - High Performance Backend Systems.
   - Python, Go and C.
   - Functional Programming (OCaml lets go).
 
   One of my personal goals is to dive into Programming Languages Theory. I want to learn more about programming languages as a field of study and get a better grasp of functional programming languages.
   
-  Right now, I'm learning OCaml and studying about Type Checkers.
+  I also want to work with High-Performance Systems someday and learn more about system performance, optimization techniques, and low-level efficiency improvements.  
+  
+  Right now, I'm learning OCaml and studying a little bit about Type Checkers.
   
   Recently, I also started writing about my projects on my [blog](https://seaskythe.bearblog.dev/)
 

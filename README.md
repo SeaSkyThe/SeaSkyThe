@@ -22,7 +22,7 @@
 
   One of my personal goals is to dive into Programming Languages Theory. I want to learn more about programming languages as a field of study and get a better grasp of functional programming languages.
   
-  I also want to work with High-Performance Systems someday and learn more about system performance, optimization techniques, and low-level efficiency improvements.  
+  I also want to work with High-Performance Systems someday and learn more about system performance, optimization techniques, and low-level efficiency improvements (and learn Rust btw).  
   
   Right now, I'm learning OCaml and studying a little bit about Type Checkers.
   

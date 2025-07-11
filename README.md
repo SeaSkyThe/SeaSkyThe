@@ -12,21 +12,19 @@
   
   <br/>
   
-   Hey, I'm Marcelo. I'm a Software Developer searching for my purpose in life.
+   Hey, I'm Marcelo. I'm just a curious Software Engineer.
   
   I love the learning process of things. Here are some topics I'm interested in or currently learning:
-  - Build and learn what makes me have fun.
+  - Useless personal projects that proudly go unfinished.
   - High Performance Backend Systems.
-  - Python, Go and C.
+  - Python, Rust, Go and C.
   - Functional Programming (OCaml lets go).
 
   One of my personal goals is to dive into Programming Languages Theory. I want to learn more about programming languages as a field of study and get a better grasp of functional programming languages.
   
-  I also want to work with High-Performance Systems someday and learn more about system performance, optimization techniques, and low-level efficiency improvements (and learn Rust/Zig btw).  
+  Right now, I'm learning Rust :) 
   
-  Right now, I'm learning OCaml and studying a little bit about Type Checkers.
-  
-  Recently, I also started writing about my projects on my [blog](https://seaskythe.bearblog.dev/)
+  Also, I have a [blog](https://seaskythe.bearblog.dev/) — I haven't written anything in a while, in true developer blog tradition.
 
   I'm always looking to connect with fellow developers, so feel free to say hi!
 

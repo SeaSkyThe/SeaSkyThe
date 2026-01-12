@@ -14,7 +14,7 @@
   
    Hey, I'm Marcelo. I'm just a curious Software Engineer.
   
-  I love the learning process of things. Here are some topics I'm interested in or currently learning:
+  I like to learn. Here are some topics I'm interested in or currently learning:
   - Useless personal projects that proudly go unfinished.
   - High Performance Backend Systems.
   - Python, Rust, Go and C.
